@@ -45,4 +45,6 @@ public class Player : MonoBehaviour
         Vector3 _playerPosition = Camera.main.WorldToScreenPoint(transform.position);
         return _playerPosition;
     }
+
+    //
 }
