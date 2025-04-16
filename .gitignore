@@ -1,0 +1,38 @@
+# Игнорировать файлы и папки Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+.vscode/
+.idea/
+
+# Файлы и папки Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Файлы и папки, связанные с платформами
+*.apk
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Игнорировать файлы кэша и временные файлы
+*.bak
+*.orig
+*.tmp
+*.pidb.meta
+
+# Игнорировать файлы настроек
+*.unitypackage
